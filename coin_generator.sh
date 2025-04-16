@@ -35,7 +35,7 @@ GENESIS_REWARD_PUBKEY=0453CFDD3313102996DE46D0E82C52946B120463DE1F6A1FF4BCFCF2B9
 
 # dont change the following variables unless you know what you are doing
 LITECOIN_BRANCH=0.16
-GENESISHZERO_REPOS=https://github.com/fgshop/GenesisH0
+GENESISHZERO_REPOS=https://github.com/pasqualelembo78/GenesisH0.git
 LITECOIN_REPOS=https://github.com/litecoin-project/litecoin.git
 LITECOIN_PUB_KEY=040184710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9
 LITECOIN_MERKLE_HASH=97ddfbbae6be97fd6cdf3e7ca13232a3afff2353e29badfab7f73011edd4ced9
